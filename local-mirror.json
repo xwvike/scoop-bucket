@@ -1,0 +1,22 @@
+{
+    "version": "0.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/xwvike/local-mirror/releases/download/v0.9.0/local-mirror_0.9.0_windows_amd64.zip",
+            "bin": [
+                "local-mirror.exe"
+            ],
+            "hash": "36d7029cdadb7a3d685ad26330e07615290354e9d82fc8443250b2245421831a"
+        },
+        "arm64": {
+            "url": "https://github.com/xwvike/local-mirror/releases/download/v0.9.0/local-mirror_0.9.0_windows_arm64.zip",
+            "bin": [
+                "local-mirror.exe"
+            ],
+            "hash": "66ebf626a73ee0930b07a6f9d223a9e5d9a586e4c0d816c3ef0480608a945564"
+        }
+    },
+    "homepage": "https://github.com/xwvike/local-mirror",
+    "license": "MIT",
+    "description": "One-way directory mirroring over TCP with relays, LAN discovery and optional Noise encryption"
+}
