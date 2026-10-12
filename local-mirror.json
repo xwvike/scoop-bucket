@@ -1,19 +1,19 @@
 {
-    "version": "2.9.0",
+    "version": "2.9.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xwvike/local-mirror/releases/download/v2.9.0/local-mirror_2.9.0_windows_amd64.zip",
+            "url": "https://github.com/xwvike/local-mirror/releases/download/v2.9.1/local-mirror_2.9.1_windows_amd64.zip",
             "bin": [
                 "local-mirror.exe"
             ],
-            "hash": "da3407a49314387941a50cdd82e20445cacf1a2fffa516db75685b1ea21680e0"
+            "hash": "6ed312ed5931fc895214a84c1f8903ab36b4717d4e75cbd7a40a483524078feb"
         },
         "arm64": {
-            "url": "https://github.com/xwvike/local-mirror/releases/download/v2.9.0/local-mirror_2.9.0_windows_arm64.zip",
+            "url": "https://github.com/xwvike/local-mirror/releases/download/v2.9.1/local-mirror_2.9.1_windows_arm64.zip",
             "bin": [
                 "local-mirror.exe"
             ],
-            "hash": "a62ea4f804e7c5bd8e6663e43e23aafa2c384b53a69ef9fa3a921bb54125fa69"
+            "hash": "982dd37b9a7d7e4402e4fd9ac33a12d23e237ba0ec8cf6f889a75b7f7f6ca4dc"
         }
     },
     "homepage": "https://github.com/xwvike/local-mirror",
